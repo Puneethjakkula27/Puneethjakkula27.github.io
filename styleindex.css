@@ -77,6 +77,16 @@ nav ul ul{
 	padding: 30px 10px 21px 10px;
 
 }
+#divimg{
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: : url('../images/back.jpg');
+	padding: 0px;
+	margin: 10px;
+	height: 100%;
+	width: 100%;
+}
 
 
 
